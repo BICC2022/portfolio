@@ -121,6 +121,10 @@ div.cancel > span > img {
     margin-right: 5%;
 }
 
+img {
+    object-fit: cover;
+}
+
 @media only screen and ( min-width: 768px) {
     #descend {
         margin-top: 20%;
